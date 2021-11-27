@@ -2,20 +2,14 @@
 
 > A Vue.js project
 
-## Build Setup
+#  NOTE: dont forget to serve the backend before start and make sure for the api url in axios.auth.js file in this project
 
-``` bash
-# install dependencies
-npm install
+https://github.com/yazansalhi/SagerDrone-backend
 
-# serve with hot reload at localhost:8080
-npm run dev
+## to start the project
+yarn
+yarn dev
 
 # build for production with minification
-npm run build
+yarn build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
